@@ -1,0 +1,1427 @@
+{
+  "Simple Poll": {
+    "tz": "America/Los_Angeles",
+    "latlong": [
+      34.0536909,
+      -118.2427666
+    ]
+  },
+  "Krishna Neupane": {
+    "tz": "America/New_York",
+    "latlong": [
+      40.7127281,
+      -74.0060152
+    ]
+  },
+  "Eric Chirtel": {
+    "tz": "America/New_York",
+    "latlong": [
+      40.7127281,
+      -74.0060152
+    ]
+  },
+  "Martin Zumaya": {
+    "tz": "America/Mexico_City",
+    "latlong": [
+      19.4326296,
+      -99.1331785
+    ]
+  },
+  "Paola Correa": {
+    "tz": "America/Santiago",
+    "latlong": [
+      9.8694792,
+      -83.7980749
+    ]
+  },
+  "aaronclauset": {
+    "tz": "America/New_York",
+    "latlong": [
+      40.7127281,
+      -74.0060152
+    ]
+  },
+  "Jianyu Lai": {
+    "tz": "America/New_York",
+    "latlong": [
+      40.7127281,
+      -74.0060152
+    ]
+  },
+  "Casey Barkan": {
+    "tz": "America/Los_Angeles",
+    "latlong": [
+      34.0536909,
+      -118.2427666
+    ]
+  },
+  "Tyson Pond": {
+    "tz": "America/New_York",
+    "latlong": [
+      40.7127281,
+      -74.0060152
+    ]
+  },
+  "Alec Kirkley": {
+    "tz": "America/New_York",
+    "latlong": [
+      40.7127281,
+      -74.0060152
+    ]
+  },
+  "Benji Zusman": {
+    "tz": "America/New_York",
+    "latlong": [
+      40.7127281,
+      -74.0060152
+    ]
+  },
+  "Manuela Runge": {
+    "tz": "America/Chicago",
+    "latlong": [
+      41.8755616,
+      -87.6244212
+    ]
+  },
+  "Lihong Zhao": {
+    "tz": "America/Los_Angeles",
+    "latlong": [
+      34.0536909,
+      -118.2427666
+    ]
+  },
+  "Weiran Cai": {
+    "tz": "America/Los_Angeles",
+    "latlong": [
+      34.0536909,
+      -118.2427666
+    ]
+  },
+  "StephanyRajeh": {
+    "tz": "Europe/Brussels",
+    "latlong": [
+      50.8436709,
+      4.3674367
+    ]
+  },
+  "Fatemeh Pakpour": {
+    "tz": "Asia/Tehran",
+    "latlong": [
+      35.7006177,
+      51.4013785
+    ]
+  },
+  "GUIFO FODJO A Yvan": {
+    "tz": "Africa/Algiers",
+    "latlong": [
+      36.7753606,
+      3.0601882
+    ]
+  },
+  "Dakota Murray": {
+    "tz": "America/Indiana/Indianapolis",
+    "latlong": [
+      39.7683331,
+      -86.1583502
+    ]
+  },
+  "Kate Eddens": {
+    "tz": "America/New_York",
+    "latlong": [
+      40.7127281,
+      -74.0060152
+    ]
+  },
+  "Julia Wei": {
+    "tz": "America/Los_Angeles",
+    "latlong": [
+      34.0536909,
+      -118.2427666
+    ]
+  },
+  "Sean Cornelius": {
+    "tz": "America/New_York",
+    "latlong": [
+      40.7127281,
+      -74.0060152
+    ]
+  },
+  "John Metzcar": {
+    "tz": "America/Indiana/Indianapolis",
+    "latlong": [
+      39.7683331,
+      -86.1583502
+    ]
+  },
+  "LaTeX": {
+    "tz": "America/Los_Angeles",
+    "latlong": [
+      34.0536909,
+      -118.2427666
+    ]
+  },
+  "Anshuman Swain": {
+    "tz": "America/New_York",
+    "latlong": [
+      40.7127281,
+      -74.0060152
+    ]
+  },
+  "abbyr": {
+    "tz": "America/New_York",
+    "latlong": [
+      40.7127281,
+      -74.0060152
+    ]
+  },
+  "Patricia McNeil": {
+    "tz": "America/Los_Angeles",
+    "latlong": [
+      34.0536909,
+      -118.2427666
+    ]
+  },
+  "Tyler Hoffman": {
+    "tz": "America/New_York",
+    "latlong": [
+      40.7127281,
+      -74.0060152
+    ]
+  },
+  "Upasana Dutta": {
+    "tz": "America/Denver",
+    "latlong": [
+      39.7392364,
+      -104.9848623
+    ]
+  },
+  "Kishore Vasan": {
+    "tz": "America/Los_Angeles",
+    "latlong": [
+      34.0536909,
+      -118.2427666
+    ]
+  },
+  "Sandra Murillo-Sandoval": {
+    "tz": "America/Mexico_City",
+    "latlong": [
+      19.4326296,
+      -99.1331785
+    ]
+  },
+  "Shihui Feng": {
+    "tz": "Asia/Chongqing",
+    "latlong": [
+      29.5585712,
+      106.5492822
+    ]
+  },
+  "Tyler Prochnow": {
+    "tz": "America/Chicago",
+    "latlong": [
+      41.8755616,
+      -87.6244212
+    ]
+  },
+  "Vadym Safronov": {
+    "tz": "Europe/London",
+    "latlong": [
+      51.5073219,
+      -0.1276474
+    ]
+  },
+  "amirhosein": {
+    "tz": "Asia/Tehran",
+    "latlong": [
+      35.7006177,
+      51.4013785
+    ]
+  },
+  "Daniel Citron": {
+    "tz": "America/Los_Angeles",
+    "latlong": [
+      34.0536909,
+      -118.2427666
+    ]
+  },
+  "Sam Rosenblatt": {
+    "tz": "America/New_York",
+    "latlong": [
+      40.7127281,
+      -74.0060152
+    ]
+  },
+  "Tad Dallas": {
+    "tz": "America/Chicago",
+    "latlong": [
+      41.8755616,
+      -87.6244212
+    ]
+  },
+  "Michelle Girvan": {
+    "tz": "America/New_York",
+    "latlong": [
+      40.7127281,
+      -74.0060152
+    ]
+  },
+  "Daniel Serrano (UMD)": {
+    "tz": "America/New_York",
+    "latlong": [
+      40.7127281,
+      -74.0060152
+    ]
+  },
+  "nickmenn": {
+    "tz": "America/New_York",
+    "latlong": [
+      40.7127281,
+      -74.0060152
+    ]
+  },
+  "Glynis Smith": {
+    "tz": "America/New_York",
+    "latlong": [
+      40.7127281,
+      -74.0060152
+    ]
+  },
+  "Juniper Lovato": {
+    "tz": "America/New_York",
+    "latlong": [
+      40.7127281,
+      -74.0060152
+    ]
+  },
+  "Erfaun Noorani": {
+    "tz": "America/New_York",
+    "latlong": [
+      40.7127281,
+      -74.0060152
+    ]
+  },
+  "Sarah Shugars": {
+    "tz": "America/New_York",
+    "latlong": [
+      40.7127281,
+      -74.0060152
+    ]
+  },
+  "Ollin": {
+    "tz": "America/New_York",
+    "latlong": [
+      40.7127281,
+      -74.0060152
+    ]
+  },
+  "Rodrigo Migueles Ramirez": {
+    "tz": "America/New_York",
+    "latlong": [
+      40.7127281,
+      -74.0060152
+    ]
+  },
+  "Saeedeh Mohammadi": {
+    "tz": "Asia/Tehran",
+    "latlong": [
+      35.7006177,
+      51.4013785
+    ]
+  },
+  "Cristina Bradatan": {
+    "tz": "America/Chicago",
+    "latlong": [
+      41.8755616,
+      -87.6244212
+    ]
+  },
+  "Pat Wall": {
+    "tz": "America/Indiana/Indianapolis",
+    "latlong": [
+      39.7683331,
+      -86.1583502
+    ]
+  },
+  "Zhe Zheng": {
+    "tz": "America/New_York",
+    "latlong": [
+      40.7127281,
+      -74.0060152
+    ]
+  },
+  "Anastasiya Salova": {
+    "tz": "America/Los_Angeles",
+    "latlong": [
+      34.0536909,
+      -118.2427666
+    ]
+  },
+  "Mehrzad Shadmangohar": {
+    "tz": "Asia/Tehran",
+    "latlong": [
+      35.7006177,
+      51.4013785
+    ]
+  },
+  "Shelly": {
+    "tz": "America/Denver",
+    "latlong": [
+      39.7392364,
+      -104.9848623
+    ]
+  },
+  "Mahsa": {
+    "tz": "America/Denver",
+    "latlong": [
+      39.7392364,
+      -104.9848623
+    ]
+  },
+  "Emerson Melo": {
+    "tz": "America/Indiana/Indianapolis",
+    "latlong": [
+      39.7683331,
+      -86.1583502
+    ]
+  },
+  "Sarah Ren": {
+    "tz": "Europe/London",
+    "latlong": [
+      51.5073219,
+      -0.1276474
+    ]
+  },
+  "M. Umar B. Niazi": {
+    "tz": "Europe/Brussels",
+    "latlong": [
+      50.8436709,
+      4.3674367
+    ]
+  },
+  "Ali Parviz": {
+    "tz": "America/New_York",
+    "latlong": [
+      40.7127281,
+      -74.0060152
+    ]
+  },
+  "Ariella Saslafsky": {
+    "tz": "America/New_York",
+    "latlong": [
+      40.7127281,
+      -74.0060152
+    ]
+  },
+  "Betsy McCoach": {
+    "tz": "America/New_York",
+    "latlong": [
+      40.7127281,
+      -74.0060152
+    ]
+  },
+  "Jeffrey W. Herrmann": {
+    "tz": "America/New_York",
+    "latlong": [
+      40.7127281,
+      -74.0060152
+    ]
+  },
+  "Aqil Assalil": {
+    "tz": "America/New_York",
+    "latlong": [
+      40.7127281,
+      -74.0060152
+    ]
+  },
+  "Harsh Chhajer": {
+    "tz": "Asia/Kolkata",
+    "latlong": [
+      22.5677459,
+      88.3476023
+    ]
+  },
+  "Subramanian Raghavan": {
+    "tz": "America/New_York",
+    "latlong": [
+      40.7127281,
+      -74.0060152
+    ]
+  },
+  "Raymond Pang": {
+    "tz": "Europe/London",
+    "latlong": [
+      51.5073219,
+      -0.1276474
+    ]
+  },
+  "Lucas Almeida": {
+    "tz": "America/New_York",
+    "latlong": [
+      40.7127281,
+      -74.0060152
+    ]
+  },
+  "Sina Sajjadi": {
+    "tz": "Asia/Tehran",
+    "latlong": [
+      35.7006177,
+      51.4013785
+    ]
+  },
+  "Amy Bartlett": {
+    "tz": "America/New_York",
+    "latlong": [
+      40.7127281,
+      -74.0060152
+    ]
+  },
+  "Phil Nguyen": {
+    "tz": "America/New_York",
+    "latlong": [
+      40.7127281,
+      -74.0060152
+    ]
+  },
+  "Memo de Anda": {
+    "tz": "America/Mexico_City",
+    "latlong": [
+      19.4326296,
+      -99.1331785
+    ]
+  },
+  "Gabriel Meyer-Lee": {
+    "tz": "America/New_York",
+    "latlong": [
+      40.7127281,
+      -74.0060152
+    ]
+  },
+  "farzad karimi": {
+    "tz": "Asia/Tehran",
+    "latlong": [
+      35.7006177,
+      51.4013785
+    ]
+  },
+  "Herbert Sizek": {
+    "tz": "America/New_York",
+    "latlong": [
+      40.7127281,
+      -74.0060152
+    ]
+  },
+  "Arjumand Younus": {
+    "tz": "Europe/London",
+    "latlong": [
+      51.5073219,
+      -0.1276474
+    ]
+  },
+  "Mikl\u00f3s Ruszink\u00f3": {
+    "tz": "Europe/Belgrade",
+    "latlong": [
+      44.8178131,
+      20.4568974
+    ]
+  },
+  "Amber D. Elkins, MPH, DrPH": {
+    "tz": "America/Chicago",
+    "latlong": [
+      41.8755616,
+      -87.6244212
+    ]
+  },
+  "Oscar Granados": {
+    "tz": "America/Bogota",
+    "latlong": [
+      4.59808,
+      -74.0760439
+    ]
+  },
+  "Amy Knopf": {
+    "tz": "America/Indiana/Indianapolis",
+    "latlong": [
+      39.7683331,
+      -86.1583502
+    ]
+  },
+  "Dylan Mroszczyk-McDonald": {
+    "tz": "America/New_York",
+    "latlong": [
+      40.7127281,
+      -74.0060152
+    ]
+  },
+  "Diana Garc\u00eda": {
+    "tz": "America/Mexico_City",
+    "latlong": [
+      19.4326296,
+      -99.1331785
+    ]
+  },
+  "Tzu-Chi Yen": {
+    "tz": "America/Denver",
+    "latlong": [
+      39.7392364,
+      -104.9848623
+    ]
+  },
+  "Ilaria Bertazzi": {
+    "tz": "Europe/Amsterdam",
+    "latlong": [
+      52.3745403,
+      4.8979755
+    ]
+  },
+  "Ismail Uluturk": {
+    "tz": "America/New_York",
+    "latlong": [
+      40.7127281,
+      -74.0060152
+    ]
+  },
+  "Dropbox": {
+    "tz": "America/Los_Angeles",
+    "latlong": [
+      34.0536909,
+      -118.2427666
+    ]
+  },
+  "Weijun Yu": {
+    "tz": "America/New_York",
+    "latlong": [
+      40.7127281,
+      -74.0060152
+    ]
+  },
+  "GitHub": {
+    "tz": "America/Los_Angeles",
+    "latlong": [
+      34.0536909,
+      -118.2427666
+    ]
+  },
+  "Antoine Allard": {
+    "tz": "America/New_York",
+    "latlong": [
+      40.7127281,
+      -74.0060152
+    ]
+  },
+  "Peter Towbin": {
+    "tz": "America/Los_Angeles",
+    "latlong": [
+      34.0536909,
+      -118.2427666
+    ]
+  },
+  "Gili Marbach-Ad": {
+    "tz": "America/New_York",
+    "latlong": [
+      40.7127281,
+      -74.0060152
+    ]
+  },
+  "kmgarcia": {
+    "tz": "America/New_York",
+    "latlong": [
+      40.7127281,
+      -74.0060152
+    ]
+  },
+  "Keshav Srinivasan": {
+    "tz": "America/New_York",
+    "latlong": [
+      40.7127281,
+      -74.0060152
+    ]
+  },
+  "Tara Dennehy": {
+    "tz": "America/Los_Angeles",
+    "latlong": [
+      34.0536909,
+      -118.2427666
+    ]
+  },
+  "Blake Williams": {
+    "tz": "America/New_York",
+    "latlong": [
+      40.7127281,
+      -74.0060152
+    ]
+  },
+  "KeithBurghardt": {
+    "tz": "America/Los_Angeles",
+    "latlong": [
+      34.0536909,
+      -118.2427666
+    ]
+  },
+  "Patrick Kaminski": {
+    "tz": "America/New_York",
+    "latlong": [
+      40.7127281,
+      -74.0060152
+    ]
+  },
+  "Google Drive": {
+    "tz": "America/Los_Angeles",
+    "latlong": [
+      34.0536909,
+      -118.2427666
+    ]
+  },
+  "Zoom": {
+    "tz": "America/Los_Angeles",
+    "latlong": [
+      34.0536909,
+      -118.2427666
+    ]
+  },
+  "Maeve McDermott": {
+    "tz": "America/New_York",
+    "latlong": [
+      40.7127281,
+      -74.0060152
+    ]
+  },
+  "Louis Fan": {
+    "tz": "America/New_York",
+    "latlong": [
+      40.7127281,
+      -74.0060152
+    ]
+  },
+  "Runia Roy": {
+    "tz": "America/New_York",
+    "latlong": [
+      40.7127281,
+      -74.0060152
+    ]
+  },
+  "Nisarg": {
+    "tz": "America/Los_Angeles",
+    "latlong": [
+      34.0536909,
+      -118.2427666
+    ]
+  },
+  "Ulya Bayram": {
+    "tz": "Asia/Istanbul",
+    "latlong": [
+      41.0096334,
+      28.9651646
+    ]
+  },
+  "Mikal Ziane": {
+    "tz": "Europe/Brussels",
+    "latlong": [
+      50.8436709,
+      4.3674367
+    ]
+  },
+  "Annika Hennes": {
+    "tz": "Europe/Amsterdam",
+    "latlong": [
+      52.3745403,
+      4.8979755
+    ]
+  },
+  "Sina Ghafouri": {
+    "tz": "Asia/Tehran",
+    "latlong": [
+      35.7006177,
+      51.4013785
+    ]
+  },
+  "Mubasshir Khan": {
+    "tz": "Asia/Kolkata",
+    "latlong": [
+      22.5677459,
+      88.3476023
+    ]
+  },
+  "Elizabeth Donovan": {
+    "tz": "America/Chicago",
+    "latlong": [
+      41.8755616,
+      -87.6244212
+    ]
+  },
+  "Abhilash": {
+    "tz": "America/New_York",
+    "latlong": [
+      40.7127281,
+      -74.0060152
+    ]
+  },
+  "Luz A. de Wit": {
+    "tz": "America/New_York",
+    "latlong": [
+      40.7127281,
+      -74.0060152
+    ]
+  },
+  "Alex Hayes": {
+    "tz": "America/Chicago",
+    "latlong": [
+      41.8755616,
+      -87.6244212
+    ]
+  },
+  "Jonathan Inbal": {
+    "tz": "America/New_York",
+    "latlong": [
+      40.7127281,
+      -74.0060152
+    ]
+  },
+  "Doodle Bot": {
+    "tz": "America/Los_Angeles",
+    "latlong": [
+      34.0536909,
+      -118.2427666
+    ]
+  },
+  "AKHIL THOMAS PANICKER": {
+    "tz": "Asia/Kolkata",
+    "latlong": [
+      22.5677459,
+      88.3476023
+    ]
+  },
+  "Sanjukta Krishnagopal": {
+    "tz": "Asia/Kolkata",
+    "latlong": [
+      22.5677459,
+      88.3476023
+    ]
+  },
+  "Heather McIlvaine-Newsad": {
+    "tz": "America/Chicago",
+    "latlong": [
+      41.8755616,
+      -87.6244212
+    ]
+  },
+  "Ravi Sharma": {
+    "tz": "America/New_York",
+    "latlong": [
+      40.7127281,
+      -74.0060152
+    ]
+  },
+  "Nicholas Landry": {
+    "tz": "America/Denver",
+    "latlong": [
+      39.7392364,
+      -104.9848623
+    ]
+  },
+  "Elliot Aguilar": {
+    "tz": "America/New_York",
+    "latlong": [
+      40.7127281,
+      -74.0060152
+    ]
+  },
+  "Adam Ehrenberg": {
+    "tz": "America/New_York",
+    "latlong": [
+      40.7127281,
+      -74.0060152
+    ]
+  },
+  "Tom Kraft": {
+    "tz": "America/Chicago",
+    "latlong": [
+      41.8755616,
+      -87.6244212
+    ]
+  },
+  "Li Bowen": {
+    "tz": "Asia/Chongqing",
+    "latlong": [
+      29.5585712,
+      106.5492822
+    ]
+  },
+  "Octavio Mesner": {
+    "tz": "America/New_York",
+    "latlong": [
+      40.7127281,
+      -74.0060152
+    ]
+  },
+  "Emad Alenany": {
+    "tz": "America/New_York",
+    "latlong": [
+      40.7127281,
+      -74.0060152
+    ]
+  },
+  "Tim T": {
+    "tz": "America/Los_Angeles",
+    "latlong": [
+      34.0536909,
+      -118.2427666
+    ]
+  },
+  "Chao Fan": {
+    "tz": "America/Chicago",
+    "latlong": [
+      41.8755616,
+      -87.6244212
+    ]
+  },
+  "John Barlow": {
+    "tz": "America/New_York",
+    "latlong": [
+      40.7127281,
+      -74.0060152
+    ]
+  },
+  "Calvin Pozderac": {
+    "tz": "America/New_York",
+    "latlong": [
+      40.7127281,
+      -74.0060152
+    ]
+  },
+  "Erika Legara": {
+    "tz": "Asia/Chongqing",
+    "latlong": [
+      29.5585712,
+      106.5492822
+    ]
+  },
+  "Kiran Sharma": {
+    "tz": "America/Chicago",
+    "latlong": [
+      41.8755616,
+      -87.6244212
+    ]
+  },
+  "Christian Parkinson": {
+    "tz": "America/Los_Angeles",
+    "latlong": [
+      34.0536909,
+      -118.2427666
+    ]
+  },
+  "Sam Sherrill": {
+    "tz": "America/Indiana/Indianapolis",
+    "latlong": [
+      39.7683331,
+      -86.1583502
+    ]
+  },
+  "Malayaja Chutani": {
+    "tz": "Asia/Kolkata",
+    "latlong": [
+      22.5677459,
+      88.3476023
+    ]
+  },
+  "Joe Pharaon": {
+    "tz": "America/New_York",
+    "latlong": [
+      40.7127281,
+      -74.0060152
+    ]
+  },
+  "Sarah Alami Gouraftei": {
+    "tz": "America/Los_Angeles",
+    "latlong": [
+      34.0536909,
+      -118.2427666
+    ]
+  },
+  "Nathan Witztum": {
+    "tz": "America/New_York",
+    "latlong": [
+      40.7127281,
+      -74.0060152
+    ]
+  },
+  "Benjamin Braun": {
+    "tz": "America/New_York",
+    "latlong": [
+      40.7127281,
+      -74.0060152
+    ]
+  },
+  "Owen Martin": {
+    "tz": "America/Denver",
+    "latlong": [
+      39.7392364,
+      -104.9848623
+    ]
+  },
+  "Michael Logan": {
+    "tz": "America/Denver",
+    "latlong": [
+      39.7392364,
+      -104.9848623
+    ]
+  },
+  "lamiaben": {
+    "tz": "Africa/Casablanca",
+    "latlong": [
+      33.5950627,
+      -7.6187768
+    ]
+  },
+  "Oliver Mhlanga": {
+    "tz": "Africa/Harare",
+    "latlong": [
+      -17.831773,
+      31.045686
+    ]
+  },
+  "Ben Harris": {
+    "tz": "America/New_York",
+    "latlong": [
+      40.7127281,
+      -74.0060152
+    ]
+  },
+  "Nick Cheney": {
+    "tz": "America/New_York",
+    "latlong": [
+      40.7127281,
+      -74.0060152
+    ]
+  },
+  "Adarsh Prabhakaran": {
+    "tz": "Europe/London",
+    "latlong": [
+      51.5073219,
+      -0.1276474
+    ]
+  },
+  "Alex Wikner": {
+    "tz": "America/New_York",
+    "latlong": [
+      40.7127281,
+      -74.0060152
+    ]
+  },
+  "Chakresh Singh": {
+    "tz": "Asia/Kolkata",
+    "latlong": [
+      22.5677459,
+      88.3476023
+    ]
+  },
+  "Atiyab Zafar": {
+    "tz": "Asia/Kolkata",
+    "latlong": [
+      22.5677459,
+      88.3476023
+    ]
+  },
+  "Ulrike Hahn": {
+    "tz": "Europe/London",
+    "latlong": [
+      51.5073219,
+      -0.1276474
+    ]
+  },
+  "Cheng Wang": {
+    "tz": "America/New_York",
+    "latlong": [
+      40.7127281,
+      -74.0060152
+    ]
+  },
+  "Mohammad Hasan": {
+    "tz": "America/Indiana/Indianapolis",
+    "latlong": [
+      39.7683331,
+      -86.1583502
+    ]
+  },
+  "Ramiro": {
+    "tz": "America/New_York",
+    "latlong": [
+      40.7127281,
+      -74.0060152
+    ]
+  },
+  "Vineet Tiruvadi": {
+    "tz": "America/New_York",
+    "latlong": [
+      40.7127281,
+      -74.0060152
+    ]
+  },
+  "Francesca Vantaggiato": {
+    "tz": "Europe/London",
+    "latlong": [
+      51.5073219,
+      -0.1276474
+    ]
+  },
+  "Basak Taraktas": {
+    "tz": "Asia/Istanbul",
+    "latlong": [
+      41.0096334,
+      28.9651646
+    ]
+  },
+  "Milo\u0161 Nikoli\u0107": {
+    "tz": "America/New_York",
+    "latlong": [
+      40.7127281,
+      -74.0060152
+    ]
+  },
+  "tbrik": {
+    "tz": "America/Los_Angeles",
+    "latlong": [
+      34.0536909,
+      -118.2427666
+    ]
+  },
+  "Jihye Song": {
+    "tz": "America/New_York",
+    "latlong": [
+      40.7127281,
+      -74.0060152
+    ]
+  },
+  "Manita Pote": {
+    "tz": "America/New_York",
+    "latlong": [
+      40.7127281,
+      -74.0060152
+    ]
+  },
+  "Babita": {
+    "tz": "Asia/Kolkata",
+    "latlong": [
+      22.5677459,
+      88.3476023
+    ]
+  },
+  "Masa Haraguchi": {
+    "tz": "Asia/Tokyo",
+    "latlong": [
+      35.6828387,
+      139.7594549
+    ]
+  },
+  "Dominique Gravel": {
+    "tz": "America/New_York",
+    "latlong": [
+      40.7127281,
+      -74.0060152
+    ]
+  },
+  "Prem Sankar C": {
+    "tz": "Asia/Kolkata",
+    "latlong": [
+      22.5677459,
+      88.3476023
+    ]
+  },
+  "Chathika Gunaratne": {
+    "tz": "America/New_York",
+    "latlong": [
+      40.7127281,
+      -74.0060152
+    ]
+  },
+  "Jorin Graham": {
+    "tz": "America/Chicago",
+    "latlong": [
+      41.8755616,
+      -87.6244212
+    ]
+  },
+  "Hirbod Kamalinia": {
+    "tz": "Asia/Tehran",
+    "latlong": [
+      35.7006177,
+      51.4013785
+    ]
+  },
+  "marie france gevry": {
+    "tz": "America/New_York",
+    "latlong": [
+      40.7127281,
+      -74.0060152
+    ]
+  },
+  "Djibril Mboup": {
+    "tz": "Africa/Monrovia",
+    "latlong": [
+      6.328034,
+      -10.797788
+    ]
+  },
+  "echapman": {
+    "tz": "America/New_York",
+    "latlong": [
+      40.7127281,
+      -74.0060152
+    ]
+  },
+  "wlosert": {
+    "tz": "America/New_York",
+    "latlong": [
+      40.7127281,
+      -74.0060152
+    ]
+  },
+  "kcutlip": {
+    "tz": "America/New_York",
+    "latlong": [
+      40.7127281,
+      -74.0060152
+    ]
+  },
+  "Sam Scarpino": {
+    "tz": "America/New_York",
+    "latlong": [
+      40.7127281,
+      -74.0060152
+    ]
+  },
+  "ginestra bianconi": {
+    "tz": "Europe/London",
+    "latlong": [
+      51.5073219,
+      -0.1276474
+    ]
+  },
+  "Pooneh Mousavi": {
+    "tz": "America/Chicago",
+    "latlong": [
+      41.8755616,
+      -87.6244212
+    ]
+  },
+  "Laurent H\u00e9bert-Dufresne": {
+    "tz": "America/New_York",
+    "latlong": [
+      40.7127281,
+      -74.0060152
+    ]
+  },
+  "Sandip George": {
+    "tz": "Europe/Amsterdam",
+    "latlong": [
+      52.3745403,
+      4.8979755
+    ]
+  },
+  "Jos\u00e9 R. Nicol\u00e1s-Carlock": {
+    "tz": "America/Mexico_City",
+    "latlong": [
+      19.4326296,
+      -99.1331785
+    ]
+  },
+  "Rory J. Gilchrist (he/him)": {
+    "tz": "America/Chicago",
+    "latlong": [
+      41.8755616,
+      -87.6244212
+    ]
+  },
+  "YY": {
+    "tz": "America/Indiana/Indianapolis",
+    "latlong": [
+      39.7683331,
+      -86.1583502
+    ]
+  },
+  "sscarpin": {
+    "tz": "America/New_York",
+    "latlong": [
+      40.7127281,
+      -74.0060152
+    ]
+  },
+  "Liane Gabor": {
+    "tz": "America/Los_Angeles",
+    "latlong": [
+      34.0536909,
+      -118.2427666
+    ]
+  },
+  "Alexander Michels": {
+    "tz": "America/Chicago",
+    "latlong": [
+      41.8755616,
+      -87.6244212
+    ]
+  },
+  "Jimmy": {
+    "tz": "Europe/Amsterdam",
+    "latlong": [
+      52.3745403,
+      4.8979755
+    ]
+  },
+  "Sagnik Bhattacharya": {
+    "tz": "America/New_York",
+    "latlong": [
+      40.7127281,
+      -74.0060152
+    ]
+  },
+  "Nicholas Roberts": {
+    "tz": "America/Los_Angeles",
+    "latlong": [
+      34.0536909,
+      -118.2427666
+    ]
+  },
+  "Mark Dekker": {
+    "tz": "Europe/Amsterdam",
+    "latlong": [
+      52.3745403,
+      4.8979755
+    ]
+  },
+  "Benjamin Matthias Ruppik": {
+    "tz": "Europe/Amsterdam",
+    "latlong": [
+      52.3745403,
+      4.8979755
+    ]
+  },
+  "Esmaeil Khedmati Morasae": {
+    "tz": "Europe/London",
+    "latlong": [
+      51.5073219,
+      -0.1276474
+    ]
+  },
+  "Sunil Kumar": {
+    "tz": "Asia/Kolkata",
+    "latlong": [
+      22.5677459,
+      88.3476023
+    ]
+  },
+  "Mavi Peru": {
+    "tz": "America/New_York",
+    "latlong": [
+      40.7127281,
+      -74.0060152
+    ]
+  },
+  "Jane Molofsky": {
+    "tz": "America/New_York",
+    "latlong": [
+      40.7127281,
+      -74.0060152
+    ]
+  },
+  "Ole Peters": {
+    "tz": "Europe/London",
+    "latlong": [
+      51.5073219,
+      -0.1276474
+    ]
+  },
+  "Greg Sharp": {
+    "tz": "America/New_York",
+    "latlong": [
+      40.7127281,
+      -74.0060152
+    ]
+  },
+  "Richard Remigio": {
+    "tz": "America/New_York",
+    "latlong": [
+      40.7127281,
+      -74.0060152
+    ]
+  },
+  "Dar\u00edo Mart\u00ednez": {
+    "tz": "America/Mexico_City",
+    "latlong": [
+      19.4326296,
+      -99.1331785
+    ]
+  },
+  "Concepci\u00f3n Gamboa S\u00e1nchez": {
+    "tz": "America/Mexico_City",
+    "latlong": [
+      19.4326296,
+      -99.1331785
+    ]
+  },
+  "Amin Rahimian": {
+    "tz": "America/New_York",
+    "latlong": [
+      40.7127281,
+      -74.0060152
+    ]
+  },
+  "Mahta Ramezanian": {
+    "tz": "America/New_York",
+    "latlong": [
+      40.7127281,
+      -74.0060152
+    ]
+  },
+  "Bui Thi Mai Anh": {
+    "tz": "Asia/Bangkok",
+    "latlong": [
+      13.7542529,
+      100.493087
+    ]
+  },
+  "chris danforth": {
+    "tz": "America/New_York",
+    "latlong": [
+      40.7127281,
+      -74.0060152
+    ]
+  },
+  "pdodds": {
+    "tz": "America/New_York",
+    "latlong": [
+      40.7127281,
+      -74.0060152
+    ]
+  },
+  "Serge Stinckwich": {
+    "tz": "Asia/Chongqing",
+    "latlong": [
+      29.5585712,
+      106.5492822
+    ]
+  },
+  "mgirvan": {
+    "tz": "America/New_York",
+    "latlong": [
+      40.7127281,
+      -74.0060152
+    ]
+  },
+  "Brian Beckage": {
+    "tz": "America/New_York",
+    "latlong": [
+      40.7127281,
+      -74.0060152
+    ]
+  },
+  "buchanan mark": {
+    "tz": "America/New_York",
+    "latlong": [
+      40.7127281,
+      -74.0060152
+    ]
+  },
+  "Slackbot": {
+    "tz": null,
+    "latlong": 0
+  }
+}
